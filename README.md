@@ -2,6 +2,8 @@ pi-iterated-logarithm
 =====================
 A numerical test to see if the digits of Pi satisfy the [law of the iterated logarithm](https://en.wikipedia.org/wiki/Law_of_the_iterated_logarithm).
 
+Also check out [this post on Mathematics Stack Exchange](http://math.stackexchange.com/questions/462376/does-pi-satisfy-the-law-of-the-iterated-logarithm).
+
 Example output
 --------------
 
